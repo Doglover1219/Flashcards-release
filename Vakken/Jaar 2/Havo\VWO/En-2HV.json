@@ -1,6 +1,6 @@
 {
-	"unit 1":{
-		"*A (←→)":{
+	"Chapter 1":{
+		"*A Watching (←→)":{
 			"crazy":"gek(ke)",
 			"float":"drijven",
 			"gross":"smerig",
@@ -12,14 +12,14 @@
 			"upside-down":"ondersteboven",
 			"vomit":"overgeven"
 		},
-		"A (→)":{
+		"A Watching (→)":{
 			"a load of":"een heleboel",
 			"fan":"waaier",
 			"tickle":"kietelen",
 			"tons of":"heel veel",
 			"wee":"klein(e)"
 		},
-		"*B (←→)":{
+		"*B Theme Words (←→)":{
 			"Travelling":"Reizen",
 			"abroad":"naar het buitenland",
 			"airport":"luchthaven",
@@ -52,7 +52,7 @@
 			"toothpaste":"tandpasta",
 			"travel guide":"reisgids"
 		},
-		"*C (←→)":{
+		"*C Reading (←→)":{
 			"drag":"slepen, sleuren",
 			"epic":"episch, fantastisch",
 			"famous":"bekend(e)",
@@ -66,13 +66,13 @@
 			"view":"uitzicht",
 			"wake up":"wakker worden"
 		},
-		"C (→)":{
+		"C Reading (→)":{
 			"crooked":"kronkelige",
 			"iconic":"iconisc(e), karacteristiek(e)",
 			"infamous":"berucht(e)",
 			"shove":"duwen"
 		},
-		"*D (←→)":{
+		"*D Speaking & Stones (←→)":{
 			"Holiday Activities":"Vakantieactiviteiten",
 			"to be homesick":"heimwee hebben",
 			"to dine out":"uit eten gaan",
@@ -91,7 +91,7 @@
 			"to take a guided tour":"een rondleiding krijgen",
 			"to take a picture":"een foto maken"
 		},
-		"*F (←→)":{
+		"*F Listening (←→)":{
 			"allowed":"toegestaan",
 			"cape":"cape, mantel",
 			"hill":"heuvel",
@@ -104,13 +104,13 @@
 			"sky":"lucht hemel",
 			"wet":"nat"
 		},
-		"F (→)":{
+		"F Listening (→)":{
 			"matching":"dezelfde",
 			"shame":"jammer",
 			"street performer":"straatartiest",
 			"strike":"(in)slaan, raken"
 		},
-		"*G (←→)":{
+		"*G Reading (←→)":{
 			"accomplishment":"prestatie",
 			"afford":"zich veroorloven",
 			"claim":"beweren",
@@ -122,13 +122,13 @@
 			"solution":"oplossing",
 			"trust":"vertrouwen"
 		},
-		"G (→)":{
+		"G Reading (→)":{
 			"deceit":"bedrog",
 			"disguise":"vermomming",
 			"main":"belangrijkste",
 			"peak":"top"
 		},
-		"*H (←→)":{
+		"*H Speaking & Stones (←→)":{
 			"The weather":"Het weer",
 			"bright":"helder, licht",
 			"clear":"helder",
@@ -176,8 +176,8 @@
 			"The best thing about the holidays was the people that I met at sailing camp.":"Het beste van de vakantie waren de mensen die ik op het zeilkamp ontmoette."
 		}
 	},
-	"unit 2":{
-		"*A (←→)":{
+	"Chapter 2":{
+		"*A Watching (←→)":{
 			"bend":"buigen",
 			"brilliant":"geweldig(e)",
 			"contact":"contacteren",
@@ -188,13 +188,13 @@
 			"swell":"(op)zwellen",
 			"worry":"(zich) zorgen maken"
 		},
-		"A (→)":{
+		"A Watching (→)":{
 			"actually":"werkelijk",
 			"buddy":"vriend, gast",
 			"decisive":"daadkrachtig",
 			"manage":"(het) redden"
 		},
-		"*B (←→)":{
+		"*B Theme Words (←→)":{
 			"At the doctor's":"Bij de docter",
 			"appointment":"afspraak",
 			"cast":"gips",
@@ -230,7 +230,7 @@
 			"to throw up":"overgeven",
 			"to trip":"struikelen"
 		},
-		"*C (←→)":{
+		"*C Reading (←→)":{
 			"chest":"borst",
 			"destroy":"vernietigen",
 			"downside":"nadeel",
@@ -242,14 +242,14 @@
 			"visible":"zichtbaar",
 			"warning":"waarschuwing"
 		},
-		"C (→)":{
+		"C Reading (→)":{
 			"chronic":"chronisch(e), langdurig(e)",
 			"condition":"aandoening",
 			"disorder":"afwijking, aandoening",
 			"genetic":"genetisch(e), erfelijk(e)",
 			"nail":"spijker"
 		},
-		"*D (←→)":{
+		"*D Speaking & Stones (←→)":{
 			"Health conditions":"Gezondsheidtoestanden",
 			"black eye":"blauw oog",
 			"headache":"hoofdpijn",
@@ -267,7 +267,7 @@
 			"to look pale":"er bleek uitzien",
 			"toothache":"kies-/tandpijn"
 		},
-		"*F (←→)":{
+		"*F Listening (←→)":{
 			"benefit":"voordeel",
 			"concentrate":"zich concentreren",
 			"eventually":"uiteindelijk",
@@ -280,13 +280,13 @@
 			"revise":"repeteren, leren",
 			"youngster":"jong iemand"
 		},
-		"F (→)":{
+		"F Listening (→)":{
 			"mainly":"vooral",
 			"modest":"bescheiden",
 			"pile up":"opstapelen",
 			"productive":"productief, productieve"
 		},
-		"*G (←→)":{
+		"*G Reading (←→)":{
 			"achievement":"prestatie",
 			"border":"grens",
 			"charity":"goed doel",
@@ -300,12 +300,12 @@
 			"topic":"onderwerp",
 			"tough":"stoer(e), hard(e)"
 		},
-		"G (→)":{
+		"G Reading (→)":{
 			"navy":"marine",
 			"obesity":"zwaarlijvigheid",
 			"severe":"ernstig(e)"
 		},
-		"*H (←→)":{
+		"*H Speaking & Stones (←→)":{
 			"Tips and advice":"Tips en advies",
 			"to avoid":"vermijden",
 			"to breathe in/out":"in-/uitademen",
@@ -353,8 +353,8 @@
 			"It's important to think positive and don't stress about it.":"Het is belangrijk om positief te denken en je er niet te veel druk over te maken."
 		}
 	},
-	"unit 3":{
-		"*A (←→)":{
+	"Chapter 3":{
+		"*A Watching (←→)":{
 			"bring over":"meebrengen",
 			"care":"geven om",
 			"charity":"liefdadigheid",
@@ -366,14 +366,14 @@
 			"pile":"hoop",
 			"scheme":"plan, schema"
 		},
-		"A (→)":{
+		"A Watching (→)":{
 			"afterwards":"achteraf, daarna",
 			"beforehand":"van tevoren, vooraf",
 			"main":"belangrijkste",
 			"pursue":"nastreven",
 			"venue":"locatie"
 		},
-		"*B (←→)":{
+		"*B Theme Words (←→)":{
 			"Showbiz and entertainment":"Showbizz en entertainment",
 			"audience":"publiek",
 			"autograph":"handtekening",
@@ -411,7 +411,7 @@
 			"therefore":"daarom",
 			"too":"ook"
 		},
-		"*C (←→)":{
+		"*C Reading (←→)":{
 			"anonymous":"anoniem",
 			"claim":"beweren",
 			"direction":"richting",
@@ -425,12 +425,12 @@
 			"songwriter":"liedjesschrijver",
 			"target":"doel"
 		},
-		"C (→)":{
+		"C Reading (→)":{
 			"collaboration":"samenwerking",
 			"credit":"erkenning",
 			"slihtly":"een beetje"
 		},
-		"*D (←→)":{
+		"*D Speaking & Stones (←→)":{
 			"Expressing your opinion":"Je mening uiten",
 			"annoying":"ergerlijk, vervelend",
 			"awful":"verschrikkelijk",
@@ -449,7 +449,7 @@
 			"weird":"raar, vreemd",
 			"wonderful":"schitterend, geweldig"
 		},
-		"*F (←→)":{
+		"*F Listening (←→)":{
 			"agree":"het eens zijn",
 			"based on":"gebaseerd op",
 			"disagree":"het oneens zijn",
@@ -462,13 +462,13 @@
 			"shark":"haai",
 			"worry about":"zich zorgen maken"
 		},
-		"F (→)":{
+		"F Listening (→)":{
 			"current":"huidig(e)",
 			"in public":"in het openbaar",
 			"spin-off":"spin-off",
 			"spoiler":"spoiler"
 		},
-		"*G (←→)":{
+		"*G Reading (←→)":{
 			"decision":"beslissing",
 			"definitely":"zeker, absoluut",
 			"department":"afdeling",
@@ -480,13 +480,13 @@
 			"suitable":"geschikt",
 			"time pressure":"tijdsdruk"
 		},
-		"G (→)":{
+		"G Reading (→)":{
 			"challenging":"uitdagend",
 			"collaboration":"uitdagend",
 			"get cut":"eruit geknipt worden",
 			"picky":"kieskeurig(e)"
 		},
-		"*H (←→)":{
+		"*H Speaking & Stones (←→)":{
 			"Films and series":"Films en series",
 			"blockbuster":"kaskraker",
 			"cast":"rolverdeling",
@@ -533,8 +533,8 @@
 			"The series is wonderful, but the remake looks even better.":"De serie is geweldig, maar de nieuwste versie is nog beter."
 		}
 	},
-	"unit 4":{
-		"*A (←→)":{
+	"Chapter 4":{
+		"*A Watching (←→)":{
 			"atmosphere":"sfeer",
 			"elsewhere":"elders",
 			"have a bite":"een hapje eten",
@@ -547,13 +547,13 @@
 			"suggestion":"voorstel",
 			"wonder":"zich afvragen"
 		},
-		"A (→)":{
+		"A Watching (→)":{
 			"maritime":"maritiem(e), zeevaart-",
 			"overview":"overzicht",
 			"suppose":"veronderstellen",
 			"surrounding":"omliggend(e)"
 		},
-		"*B (←→)":{
+		"*B Theme Words (←→)":{
 			"Shopping (I)":"Winkelen (I)",
 			"bargain":"koopje",
 			"cashier":"caissière, kassamedewerker",
@@ -589,7 +589,7 @@
 			"weekly":"wekelijks",
 			"yearly":"jaarlijks"
 		},
-		"*C (←→)":{
+		"*C Reading (←→)":{
 			"announcement":"aankondeging",
 			"develop":"ontwikkelen",
 			"employee":"werknemer",
@@ -601,14 +601,14 @@
 			"suspicious":"achterdochting",
 			"threaten":"bedreigen"
 		},
-		"C (→)":{
+		"C Reading (→)":{
 			"apparently":"blijkbaar",
 			"carry out":"uitvoeren",
 			"is attached to":"gehecht zijn aan",
 			"Previously":"voorheen",
 			"trademark":"handelsmerk"
 		},
-		"*D (←→)":{
+		"*D Speaking & Stones (←→)":{
 			"Shopping (II)":"Winkelen (II)",
 			"aisle":"gang(pad)",
 			"to browse":"rondkijken, snuffelen",
@@ -627,7 +627,7 @@
 			"to suit":"passen/staan (bij)",
 			"to try on":"passen"
 		},
-		"*F (←→)":{
+		"*F Listening (←→)":{
 			"amount":"hoeveelheid",
 			"convenient":"handig",
 			"ferris wheel":"reuzenrad",
@@ -640,13 +640,13 @@
 			"unless":"tenzij",
 			"vehicle":"voertuig"
 		},
-		"F (→)":{
+		"F Listening (→)":{
 			"appeal":"fascinatie",
 			"massive":"gigantisch(e)",
 			"understandable":"begrijpelijk",
 			"worn":"versleten"
 		},
-		"*G (←→)":{
+		"*G Reading (←→)":{
 			"ad":"reclame, advertentie",
 			"allow":"toelaten, toestaan",
 			"allowance":"zakgeld",
@@ -658,14 +658,14 @@
 			"thrift store":"tweedehandswinkel",
 			"vending machine":"verkopautomaat"
 		},
-		"G (→)":{
+		"G Reading (→)":{
 			"amongst":"tussen",
 			"concern":"zorg",
 			"fad":"trend",
 			"one of a kind":"uniek",
 			"stand out":"zich onderscheiden"
 		},
-		"*H (←→)":{
+		"*H Speaking & Stones (←→)":{
 			"Getting around town":"De weg vinden in de stad",
 			"to change":"overstappen",
 			"connection":"aansluiting",
@@ -705,40 +705,78 @@
 		    "If you have any questions go to the FAQ page.":"Als u vragen heeft, ga dan naar de pagina met veelgestelde vragen."
 		},
 		"*stone 12":{
-		    "Talking about public transport":"Praten over het openbaar vervoer",
-		    "I will/am going to visit the Science Museum this afternoon.":"Ik ga het Science Museum vanmiddag bezoeken.",
-		    "Do you know how to reach the city centre?":"Weet u/je hoe ik bij het stadscentrum kom?",
-		    "Can you tell me the fastest way to get there?":"Kun je mij de snelste weg daarheen vertellen?",
-		    "To reach the park, take the bus to Kensington.":"Om het park te bereiken, neem de bus naar Kensington",
-		    "To get there, change to the Piccadilly Line.":"Om daar te komen, stap over op de Piccadilly Line",
-		    "What time/When does the bus come by?":"Hoe laat /Wanneer komt de bus langs?",
-		    "The train runs once an hour.":"De train gaat ieder uur.",
-		    "Do we have to/Shall we get a single ticket?":"Moeten/Zullen we een enkeltje kopen?",
-		    "Yes, they are available at the ticket office.":"Ja, ze zijn beschikbaar bij het kaartjesloket.",
-		    "No, it's better to buy a return ticket.":"Nee, het is beter om een retourtje te kopen.",
-		    "The bus is late because of a traffic jam.":"De bus komt later door een verkeersopstopping.",
-		    "Line 10 is delayed but it will be here any minute.":"Lijn 10 is vertraagd, maar kan ieder moment hier zijn."
+				"Talking about public transport":"Praten over het openbaar vervoer",
+				"I will/am going to visit the Science Museum this afternoon.":"Ik ga het Science Museum vanmiddag bezoeken.",
+				"Do you know how to reach the city centre?":"Weet u/je hoe ik bij het stadscentrum kom?",
+				"Can you tell me the fastest way to get there?":"Kun je mij de snelste weg daarheen vertellen?",
+				"To reach the park, take the bus to Kensington.":"Om het park te bereiken, neem de bus naar Kensington",
+				"To get there, change to the Piccadilly Line.":"Om daar te komen, stap over op de Piccadilly Line",
+				"What time/When does the bus come by?":"Hoe laat /Wanneer komt de bus langs?",
+				"The train runs once an hour.":"De train gaat ieder uur.",
+				"Do we have to/Shall we get a single ticket?":"Moeten/Zullen we een enkeltje kopen?",
+				"Yes, they are available at the ticket office.":"Ja, ze zijn beschikbaar bij het kaartjesloket.",
+				"No, it's better to buy a return ticket.":"Nee, het is beter om een retourtje te kopen.",
+				"The bus is late because of a traffic jam.":"De bus komt later door een verkeersopstopping.",
+				"Line 10 is delayed but it will be here any minute.":"Lijn 10 is vertraagd, maar kan ieder moment hier zijn."
 		}
 	},
-	"unit 5":{
-    "*A Watching (←→)":{
-      "constantly":"voortdurend",
-      "demanding":"veeleisend",
-      "devastate":"verwoesten",
-      "divide":"verdelen",
-      "editor":"redacteur",
-      "freelance":"freelance, zelfstandig",
-      "point of view":"standpunt",
-      "range":"reeks, verscheidenheid",
-      "retailer":"detailhandelaar, winkelier",
-      "trade":"handel"
-    },
-    "A Watching (→)":{
-      "agenda":"achterliggende reden, belang",
-      "are biased":"bevooroordeeld zijn",
-      "Deputy Mayor":"locoburgemeester",
-      "downtime":"rust",
-      "thoroughly":"grondig, zeer"
-    }
+	"Chapter 5":{
+		"*A Watching (←→)":{
+		"constantly":"voortdurend",
+		"demanding":"veeleisend",
+		"devastate":"verwoesten",
+		"divide":"verdelen",
+		"editor":"redacteur",
+		"freelance":"freelance, zelfstandig",
+		"point of view":"standpunt",
+		"range":"reeks, verscheidenheid",
+		"retailer":"detailhandelaar, winkelier",
+		"trade":"handel"
+		},
+		"A Watching (→)":{
+		"agenda":"achterliggende reden, belang",
+		"are biased":"bevooroordeeld zijn",
+		"Deputy Mayor":"locoburgemeester",
+		"downtime":"rust",
+		"thoroughly":"grondig, zeer"
+		}
+	},
+	"Chapter 6":{
+		"B Theme Words (←→)":{
+			"Having a good time":"Een leuke tijd hebben",
+			"atmosphere":"sfeer",
+			"to attend":"bijwonen",
+			"to be up for a laugh":"zin hebben in plezier",
+			"to chill":"relaxen",
+			"dress code":"kledingvoorschrift",
+			"to enjoy yourself":"genieten",
+			"entrance fee":"toegangsprijs",
+			"gig":"optreden, concert",
+			"to have a blast":"dikke pret hebben",
+			"host/hostess":"gastheer/-vrouw",
+			"leisure time":"vrije tijd",
+			"lively":"levendig(e)",
+			"party animal":"feestbeest",
+			"spectator":"toeschouwer",
+			"to socialise":"gezellig doen",
+			"to throw a party":"een feest geven",
+			"Moods, emotions and feelings":"Stemmingen, emoties en gevoelens",
+			"annoyed":"geïrriteerd",
+			"confused":"verward",
+			"content":"tevreden",
+			"cranky":"chagrijnig, humeurig",
+			"disappointed":"teleurgesteld",
+			"embarrassed":"beschaamd",
+			"fabulous":"fantastisch",
+			"frustrated":"gefrustreerd",
+			"guilty":"schuldig",
+			"insecure":"onzeker",
+			"inspired":"geïnspireerd",
+			"passionate":"gepassioneerd",
+			"pleased":"verheugd, tevreden",
+			"relieved":"opgelucht",
+			"spontaneous":"spontaan, impulsief",
+			"thrilled":"blij, opgewonden"
+		}
 	}
 }
